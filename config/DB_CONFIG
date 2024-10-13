@@ -1,0 +1,7 @@
+{
+    "neo4j": {
+        "uri": "bolt://nas.boweniac.top: 52003",
+        "user": "neo4j",
+        "pass": "Bowen87654321"
+    }
+}

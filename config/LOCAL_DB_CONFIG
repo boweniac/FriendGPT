@@ -1,0 +1,24 @@
+{
+    "neo4j": {
+        "uri": "bolt://localhost:7687",
+        "user": "neo4j",
+        "pass": "Bowen87654321"
+    },
+    "mysql": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "ai-world",
+        "password": "Aa123456",
+        "database": "ai_world"
+    },
+    "redis": {
+        "host": "localhost",
+        "port": 6379
+    },
+    "es": {
+        "host": "localhost",
+        "port": 9200,
+        "username": "elastic",
+        "password": "Aa123456"
+    }
+}
