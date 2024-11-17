@@ -1,9 +1,9 @@
 from neo4j import Transaction
 
-from friendgpt.memory.db.type.message_type import Neo4jMessage
+from friendgpt.memory.db.type.cognition import Neo4jCognition
 
 
-def agent_message_add_service(tx: Transaction, content: str, messages: list[Neo4jMessage]):
+def agent_message_add_service(tx: Transaction, content: str, messages: list[Neo4jCognition]):
     """
 
     :param tx:

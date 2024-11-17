@@ -1,6 +1,6 @@
 {
     "neo4j": {
-        "uri": "bolt://localhost:7687",
+        "uri": "bolt://localhost:7688",
         "user": "neo4j",
         "pass": "Bowen87654321"
     },
